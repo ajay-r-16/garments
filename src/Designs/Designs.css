@@ -1,0 +1,10 @@
+.designs{
+    min-height: 75vh;
+    max-height: 75vh;
+    overflow-y: hidden;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}

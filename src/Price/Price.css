@@ -1,0 +1,16 @@
+.pricePage{
+    min-height: 100vh;
+    max-height: 100vh;
+    background-color: rgb(228, 228, 228);
+}
+
+.price{
+    min-height: 70vh;
+    max-height: 70vh;
+    min-width: 100vw;
+    max-width: 100vw;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
